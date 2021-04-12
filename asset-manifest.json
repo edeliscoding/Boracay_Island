@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Boracay_Island/static/js/main.6aa91a71.chunk.js",
+    "main.js.map": "/Boracay_Island/static/js/main.6aa91a71.chunk.js.map",
+    "runtime-main.js": "/Boracay_Island/static/js/runtime-main.ed6a72c5.js",
+    "runtime-main.js.map": "/Boracay_Island/static/js/runtime-main.ed6a72c5.js.map",
+    "static/js/2.35069fb7.chunk.js": "/Boracay_Island/static/js/2.35069fb7.chunk.js",
+    "static/js/2.35069fb7.chunk.js.map": "/Boracay_Island/static/js/2.35069fb7.chunk.js.map",
+    "index.html": "/Boracay_Island/index.html",
+    "static/js/2.35069fb7.chunk.js.LICENSE.txt": "/Boracay_Island/static/js/2.35069fb7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed6a72c5.js",
+    "static/js/2.35069fb7.chunk.js",
+    "static/js/main.6aa91a71.chunk.js"
+  ]
+}
